@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bluestudio.github.io</id>
     <title>小桔灯儿童摄影</title>
-    <updated>2021-11-14T04:26:58.612Z</updated>
+    <updated>2021-11-14T04:27:18.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bluestudio.github.io"/>
     <link rel="self" href="https://bluestudio.github.io/atom.xml"/>
-    <subtitle>重庆小桔灯摄影有限公司©️版权所有。侵权必究！</subtitle>
+    <subtitle>重庆小桔灯摄影有限公司©️版权所有，侵权必究！</subtitle>
     <logo>https://bluestudio.github.io/images/avatar.png</logo>
     <icon>https://bluestudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小桔灯儿童摄影</rights>
