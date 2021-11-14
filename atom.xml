@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chongqingxiaojudeng.github.io</id>
+    <id>https://bluestudio.github.io</id>
     <title>小桔灯儿童摄影</title>
-    <updated>2021-11-14T03:42:44.523Z</updated>
+    <updated>2021-11-14T04:15:59.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chongqingxiaojudeng.github.io"/>
-    <link rel="self" href="https://chongqingxiaojudeng.github.io/atom.xml"/>
+    <link rel="alternate" href="https://bluestudio.github.io"/>
+    <link rel="self" href="https://bluestudio.github.io/atom.xml"/>
     <subtitle>网站描述</subtitle>
-    <logo>https://chongqingxiaojudeng.github.io/images/avatar.png</logo>
-    <icon>https://chongqingxiaojudeng.github.io/favicon.ico</icon>
+    <logo>https://bluestudio.github.io/images/avatar.png</logo>
+    <icon>https://bluestudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小桔灯儿童摄影</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chongqingxiaojudeng.github.io/post/hello-gridea/</id>
-        <link href="https://chongqingxiaojudeng.github.io/post/hello-gridea/">
+        <id>https://bluestudio.github.io/post/hello-gridea/</id>
+        <link href="https://bluestudio.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
