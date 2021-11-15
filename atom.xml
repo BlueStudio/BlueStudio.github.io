@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bluestudio.github.io</id>
-    <title>小桔灯儿童摄影</title>
-    <updated>2021-11-15T05:02:48.879Z</updated>
+    <title>秋米创意儿童摄影</title>
+    <updated>2021-11-15T05:06:12.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bluestudio.github.io"/>
     <link rel="self" href="https://bluestudio.github.io/atom.xml"/>
     <subtitle>@Copyright 2018-2021 版权所有 重庆小桔灯摄影有限公司</subtitle>
     <logo>https://bluestudio.github.io/images/avatar.png</logo>
     <icon>https://bluestudio.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 小桔灯儿童摄影</rights>
+    <rights>All rights reserved 2021, 秋米创意儿童摄影</rights>
     <entry>
         <title type="html"><![CDATA[《小橘灯》--冰心]]></title>
         <id>https://bluestudio.github.io/post/xiaojudnegbingxin/</id>
